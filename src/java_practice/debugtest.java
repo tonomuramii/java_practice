@@ -1,9 +1,15 @@
+package java_practice;
+
+//パケージを宣言
+
 public class debugtest {
 
     public static void main(String[] args) {
 
         int a = 10;
         int b = 20;
+        
+        
 
         int result = add(a, b);
 
