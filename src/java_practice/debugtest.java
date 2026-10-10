@@ -11,7 +11,6 @@ public class debugtest {
         int a = 10;
         int b = 30;
         int c = 100;
-        //コミット内容に取り消し
         //競合なしのマージ
         //マージの競合を修正
 
