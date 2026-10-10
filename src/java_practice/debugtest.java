@@ -1,6 +1,7 @@
 package java_practice;
 
 //パケージを宣言
+//マージテスト
 
 public class debugtest {
 
