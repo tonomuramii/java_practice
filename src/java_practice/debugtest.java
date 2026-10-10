@@ -10,8 +10,9 @@ public class debugtest {
 
         int a = 10;
         int b = 30;
-        int c = 40;
-        
+        int c = 100;
+        //マージの競合を修正
+
         
 
         int result = add(a, b);
