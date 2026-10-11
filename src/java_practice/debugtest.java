@@ -11,7 +11,9 @@ public class debugtest {
         int a = 10;
         int b = 30;
         int c = 100;
-        //プッシュはせず、コミットのみ行う
+        //スタック機能確認中
+        int result2 = add(a,c);
+        //コミット内容に取り消し
         //競合なしのマージ
         //マージの競合を修正
 
